@@ -43,10 +43,12 @@ Facilitating Networking Opportunities:
                 3.Partnerships with companies to post exclusive job openings for alumni and students.
 
 ## Proposed Solution / Architecture Diagram
-      ![alt text](2.png)
+
+![alt text](2.png)
 
 ## Use Cases
-      ![alt text](1.jpg)
+
+![alt text](1.jpg)
 
 ## Technology Stack
                 1.React js
