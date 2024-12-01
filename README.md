@@ -46,7 +46,7 @@ Facilitating Networking Opportunities:
       ![alt text](2.png)
 
 ## Use Cases
-      ![alt text](1-1.jpg)
+      ![alt text](1.jpg)
 
 ## Technology Stack
                 1.React js
