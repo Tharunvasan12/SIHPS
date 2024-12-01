@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:01/12/2024
+## Register Number:24001333
+## Name:Tharunish vasan.T
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -11,15 +11,61 @@ Government of Gujarat
 
 ## Idea
 
+This paragraph outlines the concept of developing a comprehensive Alumni Association platform for a Government Engineering College, featuring both web and mobile applications.The aim is to create a platform that makes strong connections between alumni and the institution, encouraging networking, mentorship, and contributions.This platform aims to build a strong, engaged alumni community while supporting the college's growth and reputation.By providing these services, the platform encourages engagement, career growth, and a culture of giving back, helping build a thriving alumni community.
+
+Purpose of the platform:
+                      1.Enhance alumni engagement and community building
+                      2.Provide a range of services like networking, donations, job opportunities, and event management
+                      3.It also made us to strengthen our Alumni Connections
+                      4.Simplify the planning and management of alumni meetups, professional workshops, and reunions to strengthen the community bond
+
+Core features:
+              It also has many core features like Alumini Registration,donation portal,networking hub,job portal etc.. .Here are some core features
+
+              1.Alumni Registration: Simple onboarding process with personalized profiles
+              2.Donation Portal: Secure methods to contribute financially
+              3.Job Portal: Job search and posting features to support career growth
+              
+Goal and benifits:
+                 1.Enhanced Engagement: Keeping alumni connected with their alma mater and peers.
+                 2.Increased Donations: Simplified processes to encourage giving back.
+                 3.Career and Mentorship Opportunities: Support for professional growth and collaboration.
+
+Implementation Focus:
+
+                1.Both web and mobile applications are prioritized for accessibility and scalability.
+                2.Emphasis on user experience, security, and ease of use.
+
+Facilitating Networking Opportunities:
+
+                1.Create a hub for professional networking, enabling alumni to collaborate, share knowledge, and support each other's career growth.
+                2.A dedicated portal for alumni to share and access job opportunities within the alumni network.
+                3.Partnerships with companies to post exclusive job openings for alumni and students.
 
 ## Proposed Solution / Architecture Diagram
-
+      ![alt text](<Screenshot 2024-12-01 222236.png>)
 
 ## Use Cases
-
+      ![alt text](1.jpg)
 
 ## Technology Stack
+                1.React js
 
+                2.Node js 
+
+                3.MongoDB
+
+                4.PostgreSQL 
+
+                5.Git 
+
+                6.Postman
 
 ## Dependencies
+                1.Mapping service- 10 days
+
+                2.Data collection- 10 days
+
+                3.budget- rs.50,000
+
 
