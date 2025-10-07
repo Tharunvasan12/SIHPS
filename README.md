@@ -1,73 +1,82 @@
 # Smart India Hackathon Workshop
-# Date:01/12/2024
-## Register Number:24001333
-## Name:Tharunish vasan.T
+### Date: 07/10/2025
+### Register Number: 212224240174
+### Name: THARUNISH VASAN T
 ## Problem Title
-Implementation of the Alumni Association platform for the University/Institute.
+SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
-Background: Alumni associations play a pivotal role in fostering lifelong connections between graduates and their alma mater, facilitating networking, mentorship, and philanthropic support. However, many alumni associations face challenges in maintaining engagement, facilitating donations, and providing valuable services such as job networking and tracking alumni success stories. A comprehensive Alumni Association platform for a University/Institute, encompassing both web and mobile applications, aims to address these challenges effectively. Detailed Description: The proposed Alumni Association platform for the Government Engineering College will feature robust functionalities accessible through both web and mobile applications: Alumni Registration: User-friendly registration processes on both web and mobile platforms, allowing alumni to join the association, update their profiles, and stay connected with peers and the institution. Donation Portal: Secure mechanisms on both platforms for alumni to contribute donations easily and support various initiatives and projects undertaken by the college, fostering a culture of philanthropy. Networking Hub: Dedicated sections on both platforms to connect alumni based on shared interests, professions, and geographic locations, facilitating professional networking, mentorship, and collaboration opportunities. Job Portal: Integrated job search and posting features accessible via web and mobile apps, enabling alumni to explore career opportunities, post job openings, and connect with potential employers within the alumni network. Alumni Directory: Search functionalities available on both platforms to find alumni based on different criteria such as graduation year, field of study, industry, location, etc., promoting networking and community building. Success Story Tracking: Features on both web and mobile apps to showcase and track alumni achievements, success stories, and notable contributions to society, inspiring current students and fostering pride among alumni. Events and Reunions: Announcements, registrations, and management tools available on both platforms for organizing alumni events, reunions, workshops, and professional development sessions to maintain engagement and connection. Feedback and Surveys: Channels on both web and mobile apps for alumni to provide feedback on their experiences, suggest improvements, and participate in surveys to help shape future initiatives of the association. The platform will prioritize user experience, security, and scalability across both web and mobile applications to cater to the diverse needs of the Government Engineering College's alumni community. Expected Solution: Implementation of the Alumni Association platform for the Government Engineering College, comprising both web and mobile applications, is expected to achieve several positive outcomes: Enhanced Alumni Engagement: Seamless access to networking, career opportunities, and alumni events through web and mobile apps will strengthen connections among alumni, fostering a vibrant and active community. Increased Philanthropic Support: Convenient donation processes accessible via both platforms will encourage alumni to contribute towards the college's growth and development initiatives. Career Advancement: Access to job postings, mentorship opportunities, and professional networking on mobile devices will support alumni in their career growth and advancement. Knowledge Sharing: Exchange of knowledge, experiences, and best practices facilitated through both web and mobile apps will enrich professional development and lifelong learning initiatives. Pride and Recognition: Highlighting alumni achievements and success stories on both platforms will instill pride in the alma mater and inspire current students to excel in their academic and professional pursuits. Community Building: Interactive features available on both web and mobile apps will nurture a sense of belonging and camaraderie among alumni, strengthening their bond with the institution. In summary, the Alumni Association platform for the University/Institute, integrated with both web and mobile applications, aims to create a dynamic and supportive ecosystem where alumni can connect, contribute, and thrive, thereby enriching the overall educational experience and legacy of the institution.
+Background: Railway stations are complex environments with numerous facilities and locations such as ticket counters, platforms, restrooms, food courts, and waiting areas. Passengers often face difficulties in navigating these spaces, especially in large or unfamiliar stations. Efficient and user-friendly navigation systems are crucial for improving passenger experience, reducing congestion, and ensuring timely travel connections. Description: The problem involves developing a comprehensive navigation solution for railway stations that assists passengers in locating various facilities and destinations within the station premises. This includes creating detailed maps, providing real-time directions, and integrating features such as accessibility options for individuals with disabilities. The solution should be intuitive, easy to use, and accessible via multiple platforms, including mobile devices and digital kiosks. Key challenges include updating navigation information in real-time, ensuring accuracy, and accommodating the diverse needs of all passengers. Expected Solution: The expected solution is a multi-platform navigation system that provides detailed, real-time directions to all facilities and locations within a railway station. This system should include: A mobile application with 3D interactive maps and step-by-step navigation. Digital kiosks located throughout the station with touch-screen interfaces. Voice-guided navigation for visually impaired passengers. Regular updates to reflect changes in station layout and facility locations. Integration with existing railway apps and services for seamless user experience. The solution should enhance the overall passenger experience by reducing confusion, saving time, and improving accessibility within the station.
+
 ## Problem Creater's Organization
-Government of Gujarat
+Ministry of Railway
 
 ## Idea
-
-This paragraph outlines the concept of developing a comprehensive Alumni Association platform for a Government Engineering College, featuring both web and mobile applications.The aim is to create a platform that makes strong connections between alumni and the institution, encouraging networking, mentorship, and contributions.This platform aims to build a strong, engaged alumni community while supporting the college's growth and reputation.By providing these services, the platform encourages engagement, career growth, and a culture of giving back, helping build a thriving alumni community.
-
-Purpose of the platform:
-                      1.Enhance alumni engagement and community building
-                      2.Provide a range of services like networking, donations, job opportunities, and event management
-                      3.It also made us to strengthen our Alumni Connections
-                      4.Simplify the planning and management of alumni meetups, professional workshops, and reunions to strengthen the community bond
-
-Core features:
-              It also has many core features like Alumini Registration,donation portal,networking hub,job portal etc.. .Here are some core features
-
-              1.Alumni Registration: Simple onboarding process with personalized profiles
-              2.Donation Portal: Secure methods to contribute financially
-              3.Job Portal: Job search and posting features to support career growth
-              
-Goal and benifits:
-                 1.Enhanced Engagement: Keeping alumni connected with their alma mater and peers.
-                 2.Increased Donations: Simplified processes to encourage giving back.
-                 3.Career and Mentorship Opportunities: Support for professional growth and collaboration.
-
-Implementation Focus:
-
-                1.Both web and mobile applications are prioritized for accessibility and scalability.
-                2.Emphasis on user experience, security, and ease of use.
-
-Facilitating Networking Opportunities:
-
-                1.Create a hub for professional networking, enabling alumni to collaborate, share knowledge, and support each other's career growth.
-                2.A dedicated portal for alumni to share and access job opportunities within the alumni network.
-                3.Partnerships with companies to post exclusive job openings for alumni and students.
+* Create a system (mobile app and digital kiosks) that provides interactive station maps and step-by-step directions to facilities within railway stations. Include accessibility features like voice guidance for the visually impaired, and keep the maps updated in real time to reflect changes in station layout.
 
 ## Proposed Solution / Architecture Diagram
 
-![alt text](2.png)
+* Build a mobile application with 3D station maps.
+
+* Set up digital kiosks with touch screens at key locations in stations.
+
+* Integrate with existing railway apps/services for data.
+
+* Use a backend server that collects and updates station layout data.
+
+* Implement voice navigation and accessibility features.
+
+* The flow: User selects destination → App/Kiosk fetches route → Directions provided in text, map, and voice formats.
+
+* Typical architecture:
+
+* Mobile app (Frontend)
+
+* Kiosk interface (Frontend)
+
+* Navigation server (Backend/API)
+
+* Data source (station layouts, updates)
+
+* Accessibility module (voice/text options)
+
+
 
 ## Use Cases
 
-![alt text](1.jpg)
+* A new passenger enters the station and wants to find the nearest restroom.
+
+* A traveler needs directions to platform number 3 for their train.
+
+* Visually impaired person requests voice-guided navigation to the ticket counter.
+
+* Regular updates show newly opened food courts or changes in waiting area locations.
+
+* Passengers use the mobile app for navigation even before reaching the station.
+
+
 
 ## Technology Stack
-                1.React js
 
-                2.Node js 
+* Frontend: Flutter (for cross-platform mobile apps), React.js (for kiosk interfaces)
 
-                3.MongoDB
+* Backend: Node.js or Django for server/API
 
-                4.PostgreSQL 
+* Database: MongoDB or Firebase for storing map/layout data
 
-                5.Git 
+* Maps: Mapbox or Google Maps SDK for 3D interactive maps
 
-                6.Postman
+* Accessibility: Text-to-Speech libraries (Google TTS, Amazon Polly)
+
+* Integration: APIs to connect with Indian Railway applications/services
+
+* Deployment: Android/iOS devices, web kiosks.
 
 ## Dependencies
-                1.Mapping service- 10 days
 
-                2.Data collection- 10 days
+* Real-time access to station layout and facility data from railway authorities.
 
-                3.budget- rs.50,000
+* Map SDK/API license for interactive features.
 
+* Text-to-Speech service/API for accessibility.
 
+* Secure authentication for user data and updates.
